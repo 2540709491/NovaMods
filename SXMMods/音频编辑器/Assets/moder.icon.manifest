@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+        UnityVersion: 6000.0.36f1
+        CRC: 3936838525
+        Hashes:
+        AssetFileHash:
+        serializedVersion: 2
+        Hash: 00388e8e32d5e0a8c0fdfe87c2e09903
+        TypeTreeHash:
+        serializedVersion: 2
+        Hash: 7bfd6d2a38a843d66473d0729f95e78c
+        IncrementalBuildHash:
+        serializedVersion: 2
+        Hash: 46ccf0ca48304aee40edf6067e1ab449
+        HashAppended: 0
+        ClassTypes:
+        - Class: 1
+        Script: {instanceID: 0}
+        - Class: 4
+        Script: {instanceID: 0}
+        - Class: 21
+        Script: {instanceID: 0}
+        - Class: 28
+        Script: {instanceID: 0}
+        - Class: 48
+        Script: {instanceID: 0}
+        - Class: 212
+        Script: {instanceID: 0}
+        - Class: 213
+        Script: {instanceID: 0}
+        SerializeReferenceClassIdentifiers: []
+        Assets:
+        - Assets/Prefrebs/MODERICON.prefab
+        Dependencies: []

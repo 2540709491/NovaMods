@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\novamod1\\objectviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|solutionrelative:novamod1\\objectviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|c:\\users\\34979\\desktop\\mod\\nova\\novamod1\\novamod1\\memod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|solutionrelative:novamod1\\memod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\novamod1\\audioeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|solutionrelative:novamod1\\audioeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\novamod1\\\u4E3B\u9898\u7F16\u8F91\u5668.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|solutionrelative:novamod1\\\u4E3B\u9898\u7F16\u8F91\u5668.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\novamod1\\saveeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA69F92-0123-4958-8133-B4DDE6ECC27E}|NovaMod1\\NovaMod1.csproj|solutionrelative:novamod1\\saveeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|NovaMod1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectViewer.cs",
+              "DocumentMoniker": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\ObjectViewer.cs",
+              "RelativeDocumentMoniker": "NovaMod1\\ObjectViewer.cs",
+              "ToolTip": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\ObjectViewer.cs",
+              "RelativeToolTip": "NovaMod1\\ObjectViewer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAIAzwJkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:44:40.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeMod.cs",
+              "DocumentMoniker": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\MeMod.cs",
+              "RelativeDocumentMoniker": "NovaMod1\\MeMod.cs",
+              "ToolTip": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\MeMod.cs",
+              "RelativeToolTip": "NovaMod1\\MeMod.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAAJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T06:40:48.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioEditor.cs",
+              "DocumentMoniker": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\AudioEditor.cs",
+              "RelativeDocumentMoniker": "NovaMod1\\AudioEditor.cs",
+              "ToolTip": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\AudioEditor.cs",
+              "RelativeToolTip": "NovaMod1\\AudioEditor.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAGAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:09:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SaveEditor.cs",
+              "DocumentMoniker": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\SaveEditor.cs",
+              "RelativeDocumentMoniker": "NovaMod1\\SaveEditor.cs",
+              "ToolTip": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\SaveEditor.cs",
+              "RelativeToolTip": "NovaMod1\\SaveEditor.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:11:01.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u4E3B\u9898\u7F16\u8F91\u5668.cs",
+              "DocumentMoniker": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\\u4E3B\u9898\u7F16\u8F91\u5668.cs",
+              "RelativeDocumentMoniker": "NovaMod1\\\u4E3B\u9898\u7F16\u8F91\u5668.cs",
+              "ToolTip": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\\u4E3B\u9898\u7F16\u8F91\u5668.cs",
+              "RelativeToolTip": "NovaMod1\\\u4E3B\u9898\u7F16\u8F91\u5668.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T05:02:55.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NovaMod1",
+              "DocumentMoniker": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\NovaMod1.csproj",
+              "RelativeDocumentMoniker": "NovaMod1\\NovaMod1.csproj",
+              "ToolTip": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\NovaMod1\\NovaMod1.csproj",
+              "RelativeToolTip": "NovaMod1\\NovaMod1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-04T07:51:53.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\bin\Debug\NovaMod1.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\bin\Debug\NovaMod1.pdb
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Debug\NovaMod1.csproj.AssemblyReference.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Debug\NovaMod1.csproj.CoreCompileInputs.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Debug\NovaMod1.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Debug\NovaMod1.pdb

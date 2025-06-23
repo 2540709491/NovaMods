@@ -1,0 +1,12 @@
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\bin\Release\NovaMod1.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\bin\Release\NovaMod1.pdb
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Release\NovaMod1.csproj.AssemblyReference.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Release\NovaMod1.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\Shooper Nova Demo\BepInEx\plugins\NovaMod1.dll
+D:\Steam\steamapps\common\Shooper Nova Demo\BepInEx\plugins\NovaMod1.pdb
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\NovaMod1.dll
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\NovaMod1.pdb
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\SXMNovaMod.dll
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\SXMNovaMod.pdb
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Release\SXMNovaMod.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\NovaMod1\obj\Release\SXMNovaMod.pdb

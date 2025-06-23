@@ -1,0 +1,7 @@
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\主题编辑器.dll
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\主题编辑器.pdb
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\主题编辑器\obj\Release\主题编辑器.csproj.AssemblyReference.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\主题编辑器\obj\Release\主题编辑器.csproj.CoreCompileInputs.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\主题编辑器\obj\Release\主题编辑器.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\主题编辑器\obj\Release\主题编辑器.pdb
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\Assets\moder.icon

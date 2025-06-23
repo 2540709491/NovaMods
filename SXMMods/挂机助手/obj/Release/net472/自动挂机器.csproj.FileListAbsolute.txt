@@ -1,0 +1,11 @@
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.csproj.AssemblyReference.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.AssemblyInfoInputs.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.AssemblyInfo.cs
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.csproj.CoreCompileInputs.cache
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\net472\自动挂机器.dll
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\net472\自动挂机器.pdb
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\自动挂机器\obj\Release\net472\自动挂机器.pdb
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\自动挂机器\net472\自动挂机器.dll
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\自动挂机器\net472\自动挂机器.pdb

@@ -1,0 +1,54 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net472</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <LangVersion>10</LangVersion>
+        <IsPackable>false</IsPackable>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+        <OutputPath>F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\自动挂机器</OutputPath>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+        <OutputPath>F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\自动挂机器</OutputPath>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Reference Include="0Harmony20">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\core\0Harmony20.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="Assembly-CSharp">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\ShooperNova_Data\Managed\Assembly-CSharp.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="BepInEx">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\core\BepInEx.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="UnityEngine">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\ShooperNova_Data\Managed\UnityEngine.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="UnityEngine.CoreModule">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\ShooperNova_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="UnityEngine.IMGUIModule">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\ShooperNova_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="UnityEngine.InputLegacyModule">
+            <HintPath>..\..\UnityEngine.InputLegacyModule.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+        <Reference Include="UnityEngine.UI">
+            <HintPath>F:\SteamLibrary\steamapps\common\Shooper Nova\ShooperNova_Data\Managed\UnityEngine.UI.dll</HintPath>
+            <Private>False</Private>
+        </Reference>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\挂机助手\\挂机助手.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\挂机助手\\挂机助手.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\挂机助手\\挂机助手.csproj",
+        "projectName": "挂机助手",
+        "projectPath": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\挂机助手\\挂机助手.csproj",
+        "packagesPath": "C:\\Users\\34979\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\34979\\Desktop\\MOD\\Nova\\NovaMod1\\挂机助手\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\34979\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Users\\34979\\.dotnet\\sdk\\8.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

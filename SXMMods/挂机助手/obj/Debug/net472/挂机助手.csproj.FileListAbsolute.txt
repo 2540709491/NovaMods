@@ -1,0 +1,9 @@
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\自动挂机器\net472\挂机助手.dll
+F:\SteamLibrary\steamapps\common\Shooper Nova\BepInEx\plugins\自动挂机器\net472\挂机助手.pdb
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.csproj.AssemblyReference.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.AssemblyInfoInputs.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.AssemblyInfo.cs
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.csproj.CoreCompileInputs.cache
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.dll
+C:\Users\34979\Desktop\MOD\Nova\NovaMod1\挂机助手\obj\Debug\net472\挂机助手.pdb

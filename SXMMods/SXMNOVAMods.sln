@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "音频编辑器", "音频�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "主题编辑器", "主题编辑器\主题编辑器.csproj", "{C50C789A-D082-4A9B-AF55-0C6355AAFBA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeMod", "MeMod\MeMod.csproj", "{910CCD28-2979-435C-BB6E-671ADCDCDB85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "自动挂机器", "自动挂机器\自动挂机器.csproj", "{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,22 @@ Global
 		{C50C789A-D082-4A9B-AF55-0C6355AAFBA4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C50C789A-D082-4A9B-AF55-0C6355AAFBA4}.Release|x86.ActiveCfg = Release|Any CPU
 		{C50C789A-D082-4A9B-AF55-0C6355AAFBA4}.Release|x86.Build.0 = Release|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Debug|x86.Build.0 = Debug|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Release|x86.ActiveCfg = Release|Any CPU
+		{910CCD28-2979-435C-BB6E-671ADCDCDB85}.Release|x86.Build.0 = Release|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Debug|x86.Build.0 = Debug|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Release|x86.ActiveCfg = Release|Any CPU
+		{327EEC90-6ADA-474C-AE5B-78D09CC6BB20}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

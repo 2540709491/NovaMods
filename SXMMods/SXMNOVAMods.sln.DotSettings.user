@@ -1,18 +1,47 @@
-﻿<wpf:ResourceDictionary xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve">
-	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EAssetBundleModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EAudioModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EJSONSerializeModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUIModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUnityWebRequestAudioModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUnityWebRequestModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-    <s:Boolean x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUnityWebRequestWWWModule_002Edll/@EntryIndexedValue">True</s:Boolean>
-	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAudioMgr_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Ff6b34425a92b4924aeb3808b2ad44b9e11aa00_003F5b_003Feb6dd66f_003FAudioMgr_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-    <s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGUILayout_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F1b591d2da1bb40e58f771a8290c97f3c31cb8_003Fdd_003F56f666c3_003FGUILayout_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
-    <s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGUI_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F1b591d2da1bb40e58f771a8290c97f3c31cb8_003F76_003Fdcd0a7c5_003FGUI_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+﻿<wpf:ResourceDictionary xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                        xmlns:s="clr-namespace:System;assembly=mscorlib"
+                        xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xml:space="preserve">
+	<s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CBepInEx_005Ccore_005C0Harmony20_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CBepInEx_005Ccore_005CBepInEx_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CAssembly_002DCSharp_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EAssetBundleModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EAudioModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002ECoreModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EIMGUIModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EJSONSerializeModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUI_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUIModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUnityWebRequestAudioModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUnityWebRequestModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:Boolean
+            x:Key="/Default/AddReferences/RecentPaths/=F_003A_005CSteamLibrary_005Csteamapps_005Ccommon_005CShooper_0020Nova_005CShooperNova_005FData_005CManaged_005CUnityEngine_002EUnityWebRequestWWWModule_002Edll/@EntryIndexedValue">True</s:Boolean>
+    <s:String
+            x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAudioMgr_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Ff6b34425a92b4924aeb3808b2ad44b9e11aa00_003F5b_003Feb6dd66f_003FAudioMgr_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+    <s:String
+            x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ABoolean_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F3020f90f960f433086d545c4e07afdfd531820_003F26_003Fe3a8ce8c_003FBoolean_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+    <s:String
+            x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGUILayout_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F1b591d2da1bb40e58f771a8290c97f3c31cb8_003Fdd_003F56f666c3_003FGUILayout_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+    <s:String
+            x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGUI_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F1b591d2da1bb40e58f771a8290c97f3c31cb8_003F76_003Fdcd0a7c5_003FGUI_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+    <s:String
+            x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AGUI_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Ff9c5d0edd12646bbb5250935e530aedc2e0b8_003Fac_003F1e09cc64_003FGUI_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
     <s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
   &lt;Assembly Path="F:\SteamLibrary\steamapps\common\Shooper Nova\ShooperNova_Data\Managed\Assembly-CSharp.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String>
-    <s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssetBundle_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fa40e783cc7504a41a069d97278e831d07ab8_003Fe4_003Fa154a7d1_003FAssetBundle_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+    <s:String
+            x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAssetBundle_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E1_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fa40e783cc7504a41a069d97278e831d07ab8_003Fe4_003Fa154a7d1_003FAssetBundle_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	</wpf:ResourceDictionary>

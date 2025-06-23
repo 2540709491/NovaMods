@@ -28,8 +28,6 @@ namespace 主题编辑器
     [BepInProcess("ShooperNova.exe")]
     internal class 主题编辑器 : BaseUnityPlugin, IModConfig
     {
-        public bool DisableRank => false;
-        
         //Env
         //背景颜色
         private static ConfigEntry<Color> Environment_BG_ColorConfig;
@@ -117,6 +115,7 @@ namespace 主题编辑器
         private static GameObject EnvironmentObj;
         private static GameObject UIObj;
         private static GameObject GameWorldObj;
+
         private void Start()
         {
             Harmony.CreateAndPatchAll(typeof(主题编辑器));
@@ -196,6 +195,7 @@ namespace 主题编辑器
             }
         }
 
+        public bool DisableRank => false;
 
 
         private void ChangeSetting(object sender, EventArgs e)

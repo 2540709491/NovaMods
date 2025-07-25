@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace 挂机助手;
 
-[BepInPlugin("nova.sxm.plugin.autorun", "挂机助手", "0.0.2")]
+[BepInPlugin("nova.sxm.plugin.autorun", "挂机助手", "0.0.3")]
 [BepInProcess("ShooperNova.exe")]
 internal class 挂机助手 : BaseUnityPlugin, IModConfig
 {
@@ -35,6 +35,7 @@ internal class 挂机助手 : BaseUnityPlugin, IModConfig
 
     //核心参数
     private static bool isRun;
+    private static bool isTRun;
     private ConfigEntry<KeyCode> runKey;
 
     /// <summary>
@@ -69,7 +70,11 @@ internal class 挂机助手 : BaseUnityPlugin, IModConfig
     {
 
         if (Input.GetKey(ControlKey) && Input.GetKeyDown(showKey.Value)) _isShow.Value = !_isShow.Value;
-        if (Input.GetKey(ControlKey) && Input.GetKeyDown(runKey.Value)) isRun = !isRun;
+        if (Input.GetKey(ControlKey) && Input.GetKeyDown(runKey.Value))
+        {
+            isRun = !isRun;
+            isTRun = isRun;
+        }
         // 根据角度和半径计算新的鼠标位置
         if (isRun)
         {
@@ -82,7 +87,7 @@ internal class 挂机助手 : BaseUnityPlugin, IModConfig
             var HP =Playerobj.GetComponent<Actor>().AttrList.GetAttr(ActorAttr.HP);
             var MaxHP=Playerobj.GetComponent<Actor>().AttrList.GetAttr(ActorAttr.MaxHP);
 
-            if (HP.BaseValue<=MaxHP.BaseValue*minHP.Value)
+            if (HP.BaseValue<=MaxHP.BaseValue*minHP.Value && isRun)
             {
                 UIMgr.OpenUI<PauseView>(false, null);
             }
@@ -93,7 +98,7 @@ internal class 挂机助手 : BaseUnityPlugin, IModConfig
     private void OnGUI()
     {
         if (!_isShow.Value) return;
-        windowsRect = GUI.Window(25111226, windowsRect, DrawWindow, $"挂机助手({ControlKey} + {showKey.Value} 开关此界面)");
+        windowsRect = GUI.Window(25111226, windowsRect, DrawWindow, $"挂机助手(按 {ControlKey} + {showKey.Value} 开关此界面)");
     }
 
     public bool DisableRank => false;
@@ -149,7 +154,11 @@ internal class 挂机助手 : BaseUnityPlugin, IModConfig
         GUILayout.EndHorizontal();
         string startbutton;
 
-        if (GUILayout.Button("开始/暂停 自动挂机")) isRun = !isRun;
+        if (GUILayout.Button("开始/暂停 自动挂机"))
+        {
+            isRun = !isRun;
+            isTRun = isRun;
+        }
         float tempRS;
         float tempRR;
         float.TryParse(_runSpeed,out tempRS);
@@ -198,5 +207,22 @@ internal class 挂机助手 : BaseUnityPlugin, IModConfig
         }
 
         return false;
+    }
+    [HarmonyPrefix]
+    [HarmonyPatch(typeof(ProgressSystem), "EndWave")]
+    public static bool WaveEnd(ProgressSystem __instance)
+    {
+        isRun = false;
+        return true;
+    }
+    [HarmonyPrefix]
+    [HarmonyPatch(typeof(ProgressSystem), "BeginWave")]
+    public static bool WaveStart(ProgressSystem __instance)
+    {
+        if (isTRun)
+        {
+            isRun = true;
+        }
+        return true;
     }
 }
